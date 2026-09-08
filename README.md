@@ -1,6 +1,6 @@
 # DryerBuzzer
 
-The dryer in my apartment doesn't have an end-of-cycle chime so I paired an ESP32 with a cheap vibration sensor, a battery from a vape that my ex left behind, and some code. When the dryer is done, you'll hear the buzzer if you're around and get an email if you're out and about.
+The dryer in my apartment doesn't have an end-of-cycle chime so I paired an ESP32 with a cheap vibration sensor, a battery from a vape that my ex left behind, and some code. When the dryer is done, you'll hear the buzzer if you're around and get an email in case you're out and about.
 
 
 # BOM
