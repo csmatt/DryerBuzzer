@@ -7,6 +7,7 @@ void sendEmail()
 {
   ssl_client.setInsecure();
 
+  // TODO: should make configurable
   smtp.connect("smtp.gmail.com", 465);
 
   Serial.println("Initializing preferences");
