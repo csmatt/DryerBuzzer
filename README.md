@@ -24,3 +24,4 @@ Configuration: Using mdns, you'll be able to reach the configuration page at htt
 
 <img width="1007" height="959" alt="image" src="https://github.com/user-attachments/assets/c5a44946-7f01-471e-8013-f1e8b6cb7add" />
 
+https://github.com/user-attachments/assets/6205e405-8d1d-4f63-8935-e3c5520d4920
